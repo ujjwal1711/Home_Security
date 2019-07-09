@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "629740801465",
+    "firebase_url": "https://home-security-227c1.firebaseio.com",
+    "project_id": "home-security-227c1",
+    "storage_bucket": "home-security-227c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629740801465:android:01e09102df7701a4",
+        "android_client_info": {
+          "package_name": "security.com.home.app.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629740801465-o7mjpag5t1f5k3pv501k6bg3t1jlqnp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "security.com.home.app.homesecurity",
+            "certificate_hash": "828b8762400655bd0c5ee60278550d8c9a74acc9"
+          }
+        },
+        {
+          "client_id": "629740801465-urnuurqu22908c146u5bn0l64190dcjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTH2TeF-CQyIq89LimumDejY6-hPSuCRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629740801465-urnuurqu22908c146u5bn0l64190dcjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
