@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Home security</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">LOGIN</string>
+    <string name="create_act">CREATE ACCOUNT</string>
+    <string name="act">activity2</string>
+    <string name="Lock">LOCK DOOR</string>
+    <string name="Unlock">UNLOCK DOOR</string>
+    <string name="per">PERMISSION DENIED</string>
+</resources>
